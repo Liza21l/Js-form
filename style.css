@@ -1,0 +1,92 @@
+body{
+    background: url(./wallpapersden.com_abstract-gradient-hd-shapes_2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.form{
+    width: 441px;
+    height: 398px;
+    border-radius: 20px;
+    margin-left: 520px;
+    margin-top: 100px;
+    border: 2px solid white;
+}
+.title{
+    margin-top: 55px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: white;
+}
+.textName{
+    padding-top: 37px;
+    margin-left: 44px;
+    font-family: 'Noto Sans Symbols';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+}
+.name{
+    width: 210px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 44px;
+    border: 1px solid white;
+    background: none;
+    color: white;
+}
+.textEmail{
+    padding-top: 22px;
+    margin-left: 44px;
+    font-family: 'Noto Sans Symbols';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+}
+.email{
+    width: 210px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 44px;
+    border: 1px solid white;
+    background: none;
+    color: white;
+}
+.textPassword{
+    padding-top: 22px;
+    margin-left: 44px;
+    font-family: 'Noto Sans Symbols';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+}
+.password{
+    width: 210px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 44px;
+    border: 1px solid white;
+    background: none;
+    color: white; 
+}
+.btnClear{
+    cursor: pointer;
+    width: 135px;
+    height: 34px;
+    margin-left: 157px;
+    margin-top: 30px;
+    border: none;
+    background: rgba(165, 100, 255, 0.533);
+    border-radius: 50px;
+    color: white;
+}
